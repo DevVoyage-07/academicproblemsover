@@ -83,21 +83,6 @@ Install the dependencies and start the application according to the framework an
 
 The exact technologies depend on the implementation of this project. Refer to the repository's source files and configuration files for the confirmed frontend, backend, AI integrations, and other dependencies.
 
-## 🤝 Contributing
-
-Contributions and suggestions are welcome!
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your improvements.
-4. Submit a pull request describing your changes.
-
-## 📄 License
-
-A license has not yet been specified. Add an appropriate open-source license to the repository if you intend to distribute the project for reuse.
-
----
-
 **🌼 Daisy AI — Empowering Students to Learn, Explore, and Solve.**
 
 *Built to make learning more accessible, organized, and collaborative.*
